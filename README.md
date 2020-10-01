@@ -1,2 +1,2 @@
 # Fully_Responsive_Food_Delievery_Website
-This is Fully_Responsive_Food_Delievery Website  UI created using html and css.
+This is Fully_Responsive_Food_Delievery Website. The UI is created using HTML and CSS.
